@@ -1,6 +1,5 @@
 package kr.cosine.home.location
 
-import io.netty.buffer.ByteBuf
 import kr.hqservice.framework.netty.api.NettyChannel
 
 interface HomeLocation {
